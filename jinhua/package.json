@@ -1,0 +1,11 @@
+{
+  "name": "jin_teng_hua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "靳腾华",
+  "license": "ISC"
+}
